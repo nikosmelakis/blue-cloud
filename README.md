@@ -6,7 +6,8 @@
 
 Visitors can browse curated trips, view detailed destination pages, and securely book their adventures through a responsive and modern interface.
 
-![blue-cloud-banner](https://via.placeholder.com/800x400.png?text=Blue+Cloud+Travel+Agency+Website)
+![blue-cloud](https://github.com/user-attachments/assets/e1c2269f-3a66-4256-903d-d938403684d2)
+
 
 ## Features 🚀
 
