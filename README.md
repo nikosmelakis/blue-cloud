@@ -15,7 +15,6 @@ Visitors can browse curated trips, view detailed destination pages, and securely
 - Dynamic trip listings with images and descriptions
 - Booking form connected to a backend database
 - Responsive design for mobile, tablet, and desktop
-- Admin panel for managing trips and bookings (if implemented)
 - Contact form with validation
 - Clean Bootstrap-based UI with custom styling
 
