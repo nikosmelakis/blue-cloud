@@ -38,7 +38,6 @@ Visitors can browse curated trips, view detailed destination pages, and securely
    $username = "admin";
    $password = "admin";
    $dbname = "bluecloud_db";
-
    
 4. Start your local server (e.g. XAMPP, MAMP, WAMP), place the project folder inside htdocs or equivalent, then visit:
    ```bash
