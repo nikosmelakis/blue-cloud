@@ -6,7 +6,8 @@
 
 Visitors can browse curated trips, view detailed destination pages, and securely book their adventures through a responsive and modern interface.
 
-![blue-cloud](https://github.com/user-attachments/assets/e1c2269f-3a66-4256-903d-d938403684d2)
+![blue-cloud-preview](https://github.com/user-attachments/assets/60778862-125b-425f-9f93-808d2fda3127)
+
 
 
 ## Features 🚀
@@ -23,3 +24,36 @@ Visitors can browse curated trips, view detailed destination pages, and securely
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/blue-cloud.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd blue-cloud
+
+3. Set up your database:
+   a) Create a MySQL database (e.g. bluecloud_db).
+   b) Import the provided SQL schema file to create necessary tables.
+   c) Update database connection details in your PHP files:
+   ```bash
+   $servername = "localhost";
+   $username = "admin";
+   $password = "admin";
+   $dbname = "bluecloud_db";
+
+   
+4. Start your local server (e.g. XAMPP, MAMP, WAMP), place the project folder inside htdocs or equivalent, then visit:
+   ```bash
+   [flutter run](http://localhost/blue-cloud
+
+
+## Technologies Used 🧰
+- **HTML5 & CSS3**: Web structure and styling.
+- **Bootstrap 5**: Responsive layout and components.
+- **JavaScript**: Interactivity and dynamic content.
+- **PHP**: Backend logic and database handling.
+- **MySQL**: Storing bookings and trip data.
+
+## Contributing 🤝
+Contributions are welcome! If you'd like to help improve Blue Cloud, please fork the repo and open a pull request. For major changes, open an issue first to discuss what you would like to change.
+
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nikosmelakis/blue-cloud/blob/main/LICENSE) file for details.
