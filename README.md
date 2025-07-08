@@ -8,7 +8,7 @@ Visitors can browse curated trips, view detailed destination pages, and securely
 
 ![blue-cloud-preview](https://github.com/user-attachments/assets/60778862-125b-425f-9f93-808d2fda3127)
 
-
+View Demo: https://nikosmelakis.com/projects-done/blue-cloud/dummy/index.html
 
 ## Features 🚀
 
