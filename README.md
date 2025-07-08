@@ -10,6 +10,7 @@ Visitors can browse curated trips, view detailed destination pages, and securely
 
 View Demo: https://nikosmelakis.com/projects-done/blue-cloud/dummy/index.html
 
+
 ## Features 🚀
 
 - Dynamic trip listings with images and descriptions
